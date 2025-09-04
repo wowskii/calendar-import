@@ -1,0 +1,1394 @@
+[
+    {
+        "id": "-1025249604:-1187102118:5:460843:7",
+        "start": "2025-10-02T10:30:00",
+        "end": "2025-10-02T12:30:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle NAUTILUS B (31p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460843:8",
+        "start": "2025-10-09T10:30:00",
+        "end": "2025-10-09T12:30:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle NAUTILUS B (31p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460843:9",
+        "start": "2025-10-16T10:30:00",
+        "end": "2025-10-16T12:30:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle NAUTILUS B (31p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460855:7",
+        "start": "2025-09-29T15:45:00",
+        "end": "2025-09-29T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460855:8",
+        "start": "2025-10-06T15:45:00",
+        "end": "2025-10-06T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460855:9",
+        "start": "2025-10-13T15:45:00",
+        "end": "2025-10-13T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460855:12",
+        "start": "2025-11-03T15:45:00",
+        "end": "2025-11-03T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460856:7",
+        "start": "2025-09-30T15:45:00",
+        "end": "2025-09-30T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle NAUTILUS B (31p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)<br />L2 Info/03 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460856:8",
+        "start": "2025-10-07T15:45:00",
+        "end": "2025-10-07T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle NAUTILUS B (31p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)<br />L2 Info/03 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:460856:9",
+        "start": "2025-10-14T15:45:00",
+        "end": "2025-10-14T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle NAUTILUS A (27p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle NAUTILUS B (31p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)<br />L2 Info/03 (30)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461252:7",
+        "start": "2025-09-29T11:00:00",
+        "end": "2025-09-29T12:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461252:8",
+        "start": "2025-10-06T11:00:00",
+        "end": "2025-10-06T12:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461252:9",
+        "start": "2025-10-13T11:00:00",
+        "end": "2025-10-13T12:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461252:12",
+        "start": "2025-11-03T11:00:00",
+        "end": "2025-11-03T12:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation objet\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN211A"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461253:7",
+        "start": "2025-09-30T10:30:00",
+        "end": "2025-09-30T12:00:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H5 (340p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461253:8",
+        "start": "2025-10-07T10:30:00",
+        "end": "2025-10-07T12:00:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H5 (340p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461253:9",
+        "start": "2025-10-14T10:30:00",
+        "end": "2025-10-14T12:00:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H5 (340p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461255:7",
+        "start": "2025-09-29T14:00:00",
+        "end": "2025-09-29T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461255:8",
+        "start": "2025-10-06T14:00:00",
+        "end": "2025-10-06T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461255:9",
+        "start": "2025-10-13T14:00:00",
+        "end": "2025-10-13T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461255:12",
+        "start": "2025-11-03T14:00:00",
+        "end": "2025-11-03T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 036 (96p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461257:7",
+        "start": "2025-10-01T14:00:00",
+        "end": "2025-10-01T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H5 (340p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)<br />LDD2 Informatique Math&#233;matique (IM) [O2UIM-900 _ O2DIM-900] (60)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461257:8",
+        "start": "2025-10-08T14:00:00",
+        "end": "2025-10-08T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H5 (340p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)<br />LDD2 Informatique Math&#233;matique (IM) [O2UIM-900 _ O2DIM-900] (60)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461257:9",
+        "start": "2025-10-15T14:00:00",
+        "end": "2025-10-15T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H5 (340p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)<br />LDD2 Informatique Math&#233;matique (IM) [O2UIM-900 _ O2DIM-900] (60)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461265:7",
+        "start": "2025-10-02T14:00:00",
+        "end": "2025-10-02T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nR&#233;seaux<br />R&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H2 (294p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)<br />LDD2 Informatique Math&#233;matique (IM) [O2UIM-900 _ O2DIM-900] (60)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "OLIN217",
+            "OLIN217B"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461265:8",
+        "start": "2025-10-09T14:00:00",
+        "end": "2025-10-09T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nR&#233;seaux<br />R&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H2 (294p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)<br />LDD2 Informatique Math&#233;matique (IM) [O2UIM-900 _ O2DIM-900] (60)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "OLIN217",
+            "OLIN217B"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461265:9",
+        "start": "2025-10-16T14:00:00",
+        "end": "2025-10-16T15:30:00",
+        "allDay": false,
+        "description": "Cours Magistral (CM)\r\n\r\n<br />\r\n\r\nR&#233;seaux<br />R&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.333 amphi H2 (294p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)<br />LDD2 Informatique Math&#233;matique (IM) [O2UIM-900 _ O2DIM-900] (60)\r\n",
+        "backgroundColor": "#00FFFF",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Cours Magistral (CM)",
+        "sites": [
+            "Orsay Vallée Bâtiment 332-333"
+        ],
+        "modules": [
+            "OLIN217",
+            "OLIN217B"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461269:7",
+        "start": "2025-10-02T15:45:00",
+        "end": "2025-10-02T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461269:8",
+        "start": "2025-10-09T15:45:00",
+        "end": "2025-10-09T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461269:9",
+        "start": "2025-10-16T15:45:00",
+        "end": "2025-10-16T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461270:7",
+        "start": "2025-10-02T15:45:00",
+        "end": "2025-10-02T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 125 (52p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461270:8",
+        "start": "2025-10-09T15:45:00",
+        "end": "2025-10-09T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 125 (52p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461270:9",
+        "start": "2025-10-16T15:45:00",
+        "end": "2025-10-16T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 125 (52p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461271:7",
+        "start": "2025-10-02T10:30:00",
+        "end": "2025-10-02T12:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 142 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461271:8",
+        "start": "2025-10-09T10:30:00",
+        "end": "2025-10-09T12:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 142 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461271:9",
+        "start": "2025-10-16T10:30:00",
+        "end": "2025-10-16T12:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nR&#233;seaux\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 142 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "OLIN217"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461277:7",
+        "start": "2025-09-30T13:30:00",
+        "end": "2025-09-30T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 304 (36p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461277:8",
+        "start": "2025-10-07T13:30:00",
+        "end": "2025-10-07T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 304 (36p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461277:9",
+        "start": "2025-10-14T13:30:00",
+        "end": "2025-10-14T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 304 (36p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461278:7",
+        "start": "2025-09-30T15:45:00",
+        "end": "2025-09-30T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 304 (36p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461278:8",
+        "start": "2025-10-07T15:45:00",
+        "end": "2025-10-07T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 304 (36p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461278:9",
+        "start": "2025-10-14T15:45:00",
+        "end": "2025-10-14T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 304 (36p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/01 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461279:7",
+        "start": "2025-09-29T15:45:00",
+        "end": "2025-09-29T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 217 (48p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461279:8",
+        "start": "2025-10-06T15:45:00",
+        "end": "2025-10-06T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 217 (48p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461279:9",
+        "start": "2025-10-13T15:45:00",
+        "end": "2025-10-13T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 217 (48p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461279:12",
+        "start": "2025-11-03T15:45:00",
+        "end": "2025-11-03T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 217 (48p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461280:7",
+        "start": "2025-09-29T15:45:00",
+        "end": "2025-09-29T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461280:8",
+        "start": "2025-10-06T15:45:00",
+        "end": "2025-10-06T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461280:9",
+        "start": "2025-10-13T15:45:00",
+        "end": "2025-10-13T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:461280:12",
+        "start": "2025-11-03T15:45:00",
+        "end": "2025-11-03T17:45:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nArchitectures des ordinateurs 1\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 126 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN221"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:466702:7",
+        "start": "2025-09-30T13:30:00",
+        "end": "2025-09-30T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 105 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:466702:9",
+        "start": "2025-10-14T13:30:00",
+        "end": "2025-10-14T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 105 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:466704:8",
+        "start": "2025-10-07T13:30:00",
+        "end": "2025-10-07T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 134 (42p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/02 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:466705:7",
+        "start": "2025-09-30T13:30:00",
+        "end": "2025-09-30T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 107 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:466705:9",
+        "start": "2025-10-14T13:30:00",
+        "end": "2025-10-14T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 107 (56p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:466707:8",
+        "start": "2025-10-07T13:30:00",
+        "end": "2025-10-07T15:30:00",
+        "allDay": false,
+        "description": "Travaux Dirig&#233;s (TD)\r\n\r\n<br />\r\n\r\nMath&#233;matiques pour l&#39;informatique\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 138 (44p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Info/03 (30)\r\n",
+        "backgroundColor": "#FFFF00",
+        "textColor": "#000000",
+        "department": "FSO - Faculté des Sciences",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Dirigés (TD)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN229"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:467146:7",
+        "start": "2025-10-01T15:45:00",
+        "end": "2025-10-01T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 224 (19p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 226 (19p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:467146:8",
+        "start": "2025-10-08T15:45:00",
+        "end": "2025-10-08T17:45:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 224 (19p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 226 (19p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:467149:10",
+        "start": "2025-10-22T14:00:00",
+        "end": "2025-10-22T17:00:00",
+        "allDay": false,
+        "description": "Travaux Pratiques (TP)\r\n\r\n<br />\r\n\r\nIntroduction &#224; la programmation fonctionnelle\r\n\r\n<br />\r\n\r\nB&#226;t.336 salle 213 (23p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 214 (23p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 224 (19p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 226 (19p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 323 (20p.) (Orsay Vall&#233;e)<br />B&#226;t.336 salle 344 (24p.) (Orsay Vall&#233;e)\r\n\r\n<br />\r\n\r\nL2 Informatique [O2XINF-900] (90)\r\n",
+        "backgroundColor": "#FF0000",
+        "textColor": "#ffffff",
+        "department": "FSO - PGIP",
+        "faculty": "Faculté des Sciences (FSO)",
+        "eventCategory": "Travaux Pratiques (TP)",
+        "sites": [
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336",
+            "Orsay Vallée Bâtiment 336"
+        ],
+        "modules": [
+            "DLIN231"
+        ],
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    },
+    {
+        "id": "-1025249604:-1187102118:5:458467:11",
+        "start": "2025-11-01T07:00:00",
+        "end": null,
+        "allDay": true,
+        "description": "jour f&#233;ri&#233;\r\n",
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff",
+        "department": null,
+        "faculty": null,
+        "eventCategory": "jour férié",
+        "sites": null,
+        "modules": null,
+        "registerStatus": 1,
+        "studentMark": 0,
+        "custom1": null,
+        "custom2": null,
+        "custom3": null
+    }
+]

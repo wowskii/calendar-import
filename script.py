@@ -36,12 +36,24 @@ def dict_to_ics(input_file, output_file):
         event.begin = datetime.fromisoformat(item["start"]).replace(tzinfo=paris_tz)
         event.end = datetime.fromisoformat(item["end"]).replace(tzinfo=paris_tz)
         calendar.events.add(event)
-    
-    # Write calendar to ICS file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.writelines(calendar)
+    return calendar
     
 
+    
 
 
-dict_to_ics('data.json', 'output.ics')
+
+sep = dict_to_ics('september.json', 'output.ics')
+oct = dict_to_ics('october.json', 'output.ics')
+nov = dict_to_ics('november.json', 'output.ics')
+dec = dict_to_ics('december.json', 'output.ics')
+
+calendar = Calendar()
+calendar.events.update(sep.events)
+calendar.events.update(oct.events)
+calendar.events.update(nov.events)
+calendar.events.update(dec.events)
+
+# Write calendar to ICS file
+with open('output.ics', 'w', encoding='utf-8') as f:
+    f.writelines(calendar)
